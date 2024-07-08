@@ -259,7 +259,7 @@
       "type": "n8n-nodes-base.executeWorkflow",
       "typeVersion": 1,
       "position": [
-        1320,
+        1300,
         300
       ]
     },
@@ -389,7 +389,7 @@
       "type": "n8n-nodes-base.webhook",
       "typeVersion": 2,
       "position": [
-        640,
+        600,
         300
       ],
       "webhookId": "b1be2ade-02c5-4ae4-8b08-eda85cd78780"
@@ -412,6 +412,6 @@
     }
   ],
   "triggerCount": 1,
-  "updatedAt": "2024-06-16T14:00:41.000Z",
-  "versionId": "12c12590-499b-4cc3-9032-af08b8a7d264"
+  "updatedAt": "2024-07-07T22:54:08.000Z",
+  "versionId": "cf77864b-19f4-4233-be80-e266a9b2ac11"
 }
